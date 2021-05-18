@@ -7,7 +7,7 @@
  
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
-I add this line of text just to test jenkins continuous development peocess.LXJ
+I add this line of text just to test jenkins continuous development peocess.LXJ1
 
 </body>
 </html>
